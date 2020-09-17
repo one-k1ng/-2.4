@@ -4,7 +4,7 @@ using System.IO.IsolatedStorage;
 
 namespace Практика2._4
 {
-    class Program
+    class Task1
     {
         static void Main(string[] args)
         {
